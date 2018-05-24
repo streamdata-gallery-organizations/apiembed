@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19910-apie
 x-kinRank: "7"
 x-alexaRank: "4126881"
 tags: APIEmbed
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/apiembed/master/_listings/apiembed/apis.md
 specificationVersion: "0.14"
 apis: []
